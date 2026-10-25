@@ -1,0 +1,5 @@
+date,market_name,latitude,longitude,category,commodity,raw_unit,priceflag,price_type,currency,raw_price,usd_price,date_normalized,county,sub_county,normalized_price_kes,normalized_unit,mom_inflation_pct,yoy_inflation_pct,data_quality_flag,ingested_at
+2024-01-15,Kongowea,-4.043477,39.668206,oil and fats,Cooking Oil,500 ML,actual,Retail,KES,180.0,1.2,2024-01-01,Mombasa,Nyali,360.0,L,,,VALID,2026-10-25 07:12:08.871932+00:00
+2024-01-15,Marikiti,-1.286389,36.817223,cereals and tubers,Maize (white),1 KG,actual,Retail,KES,70.0,0.47,2024-01-01,Nairobi,Starehe,70.0,KG,,,VALID,2026-10-25 07:12:08.871932+00:00
+2024-02-15,Marikiti,-1.286389,36.817223,cereals and tubers,Maize (white),1 KG,actual,Retail,KES,75.0,0.5,2024-02-01,Nairobi,Starehe,75.0,KG,7.14,,VALID,2026-10-25 07:12:08.871932+00:00
+2024-01-15,Marikiti,-1.286389,36.817223,cereals and tubers,Maize (white),90 KG bag,actual,Wholesale,KES,5400.0,36.0,2024-01-01,Nairobi,Starehe,60.0,KG,,,VALID,2026-10-25 07:12:08.871932+00:00
