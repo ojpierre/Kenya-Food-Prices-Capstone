@@ -1,0 +1,201 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,cereals and tubers,Maize (white),90 KG bag,actual,Retail,KES,5722.94,42.39
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,cereals and tubers,Maize (white),90 KG bag,actual,Wholesale,KES,4890.82,36.23
+2024-11-15,Nairobi,,Gikomba,-1.2864,36.8372,pulses and nuts,Beans (rose coco),90 KG bag,actual,Retail,KES,13280.0,98.37
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,pulses and nuts,Beans (rose coco),90 KG bag,actual,Wholesale,KES,12178.96,90.21
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,cereals and tubers,Potatoes (Irish),50 KG bag,actual,Retail,KES,3814.19,28.25
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,cereals and tubers,Potatoes (Irish),50 KG bag,actual,Wholesale,KES,3406.36,25.23
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,cereals and tubers,Rice (imported),1 KG,actual,Retail,KES,189.18,1.4
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,cereals and tubers,Rice (imported),1 KG,actual,Wholesale,KES,173.59,1.29
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,oil and fats,Cooking Oil,500 ML,actual,Retail,KES,187.13,1.39
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,oil and fats,Cooking Oil,500 ML,actual,Wholesale,KES,170.89,1.27
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,88.49,0.66
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,80.65,0.6
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,78.35,0.58
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,66.49,0.49
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,food essentials,Sugar,50 KG bag,actual,Retail,KES,9138.44,67.69
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,food essentials,Sugar,50 KG bag,actual,Wholesale,KES,7770.67,57.56
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,cereals and tubers,Sorghum,1 KG,actual,Retail,KES,102.43,0.76
+2024-11-15,Nairobi,,Gikomba,-1.2864,36.8372,cereals and tubers,Sorghum,1 KG,actual,Wholesale,KES,90.33,0.67
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,57.53,0.43
+2024-11-15,Nairobi,Starehe,Gikomba,-1.2864,36.8372,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,50.2,0.37
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Maize (white),1 KG,actual,Retail,KES,62.88,0.47
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Maize (white),1 KG,actual,Wholesale,KES,56.82,0.42
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,pulses and nuts,Beans (rose coco),1 KG,actual,Retail,KES,155.33,1.15
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,pulses and nuts,Beans (rose coco),1 KG,actual,Wholesale,KES,130.67,0.97
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Potatoes (Irish),50 KG bag,actual,Retail,KES,3784.6,28.03
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Potatoes (Irish),50 KG bag,actual,Wholesale,KES,3489.41,25.85
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Rice (imported),50 KG bag,actual,Retail,KES,9418.21,69.76
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Rice (imported),50 KG bag,actual,Wholesale,KES,8355.42,61.89
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,oil and fats,Cooking Oil,500 ML,actual,Retail,KES,192.09,1.42
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,oil and fats,Cooking Oil,500 ML,actual,Wholesale,KES,177.84,1.32
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,87.01,0.64
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,78.05,0.58
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,79.71,0.59
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,68.08,0.5
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,food essentials,Sugar,50 KG bag,actual,Retail,KES,8992.48,66.61
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,food essentials,Sugar,50 KG bag,actual,Wholesale,KES,7770.45,57.56
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Sorghum,1 KG,actual,Retail,KES,106.76,0.79
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,cereals and tubers,Sorghum,1 KG,actual,Wholesale,KES,95.33,0.71
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,54.34,0.4
+2024-11-15,Nairobi,Kamukunji,Muthurwa,-1.2889,36.8344,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,47.93,0.36
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,cereals and tubers,Maize (white),90 KG bag,actual,Retail,KES,5705.44,42.26
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,cereals and tubers,Maize (white),90 KG bag,actual,Wholesale,KES,5051.98,37.42
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,pulses and nuts,Beans (rose coco),90 KG bag,actual,Retail,KES,13492.71,99.95
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,pulses and nuts,Beans (rose coco),90 KG bag,actual,Wholesale,KES,11905.86,88.19
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,cereals and tubers,Potatoes (Irish),1 KG,actual,Retail,KES,75.07,0.56
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,cereals and tubers,Potatoes (Irish),1 KG,actual,Wholesale,KES,66.11,0.49
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,cereals and tubers,Rice (imported),1 KG,actual,Retail,KES,187.09,1.39
+2024-11-15,Mombasa,,Kongowea,-4.0435,39.6682,cereals and tubers,Rice (imported),1 KG,actual,Wholesale,KES,166.24,1.23
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,oil and fats,Cooking Oil,500 ML,actual,Retail,KES,195.76,1.45
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,oil and fats,Cooking Oil,500 ML,actual,Wholesale,KES,170.08,1.26
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,92.91,0.69
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,80.58,0.6
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,79.38,0.59
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,69.63,0.52
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,food essentials,Sugar,1 KG,actual,Retail,KES,184.11,1.36
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,food essentials,Sugar,1 KG,actual,Wholesale,KES,160.41,1.19
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,cereals and tubers,Sorghum,1 KG,actual,Retail,KES,102.19,0.76
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,cereals and tubers,Sorghum,1 KG,actual,Wholesale,KES,94.4,0.7
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,54.7,0.41
+2024-11-15,Mombasa,Nyali,Kongowea,-4.0435,39.6682,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,49.53,0.37
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Maize (white),1 KG,actual,Retail,KES,60.77,0.45
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Maize (white),1 KG,actual,Wholesale,KES,56.76,0.42
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,pulses and nuts,Beans (rose coco),1 KG,actual,Retail,KES,150.25,1.11
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,pulses and nuts,Beans (rose coco),1 KG,actual,Wholesale,KES,134.43,1.0
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Potatoes (Irish),1 KG,actual,Retail,KES,75.65,0.56
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Potatoes (Irish),1 KG,actual,Wholesale,KES,66.13,0.49
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Rice (imported),50 KG bag,actual,Retail,KES,9356.69,69.31
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Rice (imported),50 KG bag,actual,Wholesale,KES,8635.67,63.97
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,oil and fats,Cooking Oil,500 ML,actual,Retail,KES,193.8,1.44
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,oil and fats,Cooking Oil,500 ML,actual,Wholesale,KES,177.31,1.31
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,92.3,0.68
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,80.41,0.6
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,80.47,0.6
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,67.22,0.5
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,food essentials,Sugar,50 KG bag,actual,Retail,KES,9023.64,66.84
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,food essentials,Sugar,50 KG bag,actual,Wholesale,KES,7913.48,58.62
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Sorghum,90 KG bag,actual,Retail,KES,9477.18,70.2
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,cereals and tubers,Sorghum,90 KG bag,actual,Wholesale,KES,8484.24,62.85
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,54.25,0.4
+2024-11-15,Kisumu,Kisumu Central,Kibuye,-0.1022,34.7617,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,50.82,0.38
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Maize (white),1 KG,actual,Retail,KES,52.72,0.39
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Maize (white),1 KG,actual,Wholesale,KES,46.47,0.34
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,pulses and nuts,Beans (rose coco),90 KG bag,actual,Retail,KES,12056.7,89.31
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,pulses and nuts,Beans (rose coco),90 KG bag,actual,Wholesale,KES,10511.73,77.86
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Potatoes (Irish),1 KG,actual,Retail,KES,65.38,0.48
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Potatoes (Irish),1 KG,actual,Wholesale,KES,58.56,0.43
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Rice (imported),50 KG bag,actual,Retail,KES,8197.37,60.72
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Rice (imported),50 KG bag,actual,Wholesale,KES,7299.75,54.07
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,oil and fats,Cooking Oil,500 ML,actual,Retail,KES,170.44,1.26
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,oil and fats,Cooking Oil,500 ML,actual,Wholesale,KES,145.03,1.07
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,81.37,0.6
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,68.27,0.51
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,70.24,0.52
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,57.71,0.43
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,food essentials,Sugar,50 KG bag,actual,Retail,KES,7774.54,57.59
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,food essentials,Sugar,50 KG bag,actual,Wholesale,KES,6714.61,49.74
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Sorghum,1 KG,actual,Retail,KES,89.57,0.66
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,cereals and tubers,Sorghum,1 KG,actual,Wholesale,KES,82.72,0.61
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,48.21,0.36
+2024-11-15,Nakuru,Nakuru East,Nakuru Central,-0.3031,36.08,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,44.47,0.33
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,cereals and tubers,Maize (white),1 KG,actual,Retail,KES,53.07,0.39
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,cereals and tubers,Maize (white),1 KG,actual,Wholesale,KES,47.8,0.35
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,pulses and nuts,Beans (rose coco),1 KG,actual,Retail,KES,134.37,1.0
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,pulses and nuts,Beans (rose coco),1 KG,actual,Wholesale,KES,122.11,0.9
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,cereals and tubers,Potatoes (Irish),1 KG,actual,Retail,KES,65.82,0.49
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,cereals and tubers,Potatoes (Irish),1 KG,actual,Wholesale,KES,56.86,0.42
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,cereals and tubers,Rice (imported),1 KG,actual,Retail,KES,164.51,1.22
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,cereals and tubers,Rice (imported),1 KG,actual,Wholesale,KES,154.72,1.15
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,oil and fats,Cooking Oil,1 L,actual,Retail,KES,350.0,2.59
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,oil and fats,Cooking Oil,1 L,actual,Wholesale,KES,303.22,2.25
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,79.0,0.59
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,68.82,0.51
+2024-11-15,Uasin Gishu,,Eldoret Main,0.5143,35.2698,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,68.86,0.51
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,62.03,0.46
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,food essentials,Sugar,50 KG bag,actual,Retail,KES,7838.81,58.07
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,food essentials,Sugar,50 KG bag,actual,Wholesale,KES,6957.0,51.53
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,cereals and tubers,Sorghum,90 KG bag,actual,Retail,KES,7913.25,58.62
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,cereals and tubers,Sorghum,90 KG bag,actual,Wholesale,KES,7294.66,54.03
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,49.83,0.37
+2024-11-15,Uasin Gishu,Ainabkoi,Eldoret Main,0.5143,35.2698,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,42.53,0.32
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Maize (white),1 KG,actual,Retail,KES,62.45,0.46
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Maize (white),1 KG,actual,Wholesale,KES,53.24,0.39
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,pulses and nuts,Beans (rose coco),90 KG bag,actual,Retail,KES,13673.32,101.28
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,pulses and nuts,Beans (rose coco),90 KG bag,actual,Wholesale,KES,12568.54,93.1
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Potatoes (Irish),50 KG bag,actual,Retail,KES,3921.13,29.05
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Potatoes (Irish),50 KG bag,actual,Wholesale,KES,3324.06,24.62
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Rice (imported),1 KG,actual,Retail,KES,197.09,1.46
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Rice (imported),1 KG,actual,Wholesale,KES,165.25,1.22
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,oil and fats,Cooking Oil,500 ML,actual,Retail,KES,200.22,1.48
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,oil and fats,Cooking Oil,500 ML,actual,Wholesale,KES,177.75,1.32
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,88.56,0.66
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,76.73,0.57
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,77.44,0.57
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,67.76,0.5
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,food essentials,Sugar,1 KG,actual,Retail,KES,187.69,1.39
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,food essentials,Sugar,1 KG,actual,Wholesale,KES,160.15,1.19
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Sorghum,1 KG,actual,Retail,KES,102.4,0.76
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,cereals and tubers,Sorghum,1 KG,actual,Wholesale,KES,92.88,0.69
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,54.85,0.41
+2024-11-15,Nyeri,Nyeri Central,Nyeri Open Air,-0.4201,36.9476,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,49.62,0.37
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Maize (white),90 KG bag,actual,Retail,KES,6929.61,51.33
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Maize (white),90 KG bag,actual,Wholesale,KES,5888.57,43.62
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,pulses and nuts,Beans (rose coco),1 KG,actual,Retail,KES,186.55,1.38
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,pulses and nuts,Beans (rose coco),1 KG,actual,Wholesale,KES,153.81,1.14
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Potatoes (Irish),50 KG bag,actual,Retail,KES,4441.61,32.9
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Potatoes (Irish),50 KG bag,actual,Wholesale,KES,3991.09,29.56
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Rice (imported),50 KG bag,actual,Retail,KES,11514.81,85.29
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Rice (imported),50 KG bag,actual,Wholesale,KES,10310.22,76.37
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,oil and fats,Cooking Oil,1 L,actual,Retail,KES,468.3,3.47
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,oil and fats,Cooking Oil,1 L,actual,Wholesale,KES,414.46,3.07
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,110.75,0.82
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,93.11,0.69
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,88.96,0.66
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,83.6,0.62
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,food essentials,Sugar,1 KG,actual,Retail,KES,215.66,1.6
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,food essentials,Sugar,1 KG,actual,Wholesale,KES,188.82,1.4
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Sorghum,1 KG,actual,Retail,KES,125.45,0.93
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,cereals and tubers,Sorghum,1 KG,actual,Wholesale,KES,106.77,0.79
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,68.55,0.51
+2024-11-15,Garissa,Garissa,Garissa Main,-0.4532,39.6461,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,58.09,0.43
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Maize (white),1 KG,actual,Retail,KES,72.18,0.53
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Maize (white),1 KG,actual,Wholesale,KES,64.42,0.48
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,pulses and nuts,Beans (rose coco),90 KG bag,actual,Retail,KES,16576.71,122.79
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,pulses and nuts,Beans (rose coco),90 KG bag,actual,Wholesale,KES,14064.01,104.18
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Potatoes (Irish),1 KG,actual,Retail,KES,87.41,0.65
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Potatoes (Irish),1 KG,actual,Wholesale,KES,77.8,0.58
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Rice (imported),1 KG,actual,Retail,KES,235.6,1.75
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Rice (imported),1 KG,actual,Wholesale,KES,198.8,1.47
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,oil and fats,Cooking Oil,500 ML,actual,Retail,KES,226.34,1.68
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,oil and fats,Cooking Oil,500 ML,actual,Wholesale,KES,196.5,1.46
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,110.53,0.82
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,94.22,0.7
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,95.86,0.71
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,82.06,0.61
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,food essentials,Sugar,50 KG bag,actual,Retail,KES,10636.21,78.79
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,food essentials,Sugar,50 KG bag,actual,Wholesale,KES,9348.59,69.25
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Sorghum,90 KG bag,actual,Retail,KES,11082.78,82.09
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,cereals and tubers,Sorghum,90 KG bag,actual,Wholesale,KES,9912.17,73.42
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,64.55,0.48
+2024-11-15,Turkana,Turkana Central,Lodwar Town,3.1191,35.5973,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,55.97,0.41
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Maize (white),90 KG bag,actual,Retail,KES,5471.19,40.53
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Maize (white),90 KG bag,actual,Wholesale,KES,5086.95,37.68
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,pulses and nuts,Beans (rose coco),90 KG bag,actual,Retail,KES,13957.1,103.39
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,pulses and nuts,Beans (rose coco),90 KG bag,actual,Wholesale,KES,12377.33,91.68
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Potatoes (Irish),1 KG,actual,Retail,KES,74.15,0.55
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Potatoes (Irish),1 KG,actual,Wholesale,KES,64.97,0.48
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Rice (imported),1 KG,actual,Retail,KES,193.89,1.44
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Rice (imported),1 KG,actual,Wholesale,KES,168.24,1.25
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,oil and fats,Cooking Oil,500 ML,actual,Retail,KES,187.54,1.39
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,oil and fats,Cooking Oil,500 ML,actual,Wholesale,KES,171.1,1.27
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,milk and dairy,Cow Milk (fresh),1 L,actual,Retail,KES,87.31,0.65
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,milk and dairy,Cow Milk (fresh),1 L,actual,Wholesale,KES,76.54,0.57
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Bread (white),Loaf 400g,actual,Retail,KES,75.13,0.56
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Bread (white),Loaf 400g,actual,Wholesale,KES,70.72,0.52
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,food essentials,Sugar,1 KG,actual,Retail,KES,180.7,1.34
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,food essentials,Sugar,1 KG,actual,Wholesale,KES,157.04,1.16
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Sorghum,1 KG,actual,Retail,KES,105.63,0.78
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,cereals and tubers,Sorghum,1 KG,actual,Wholesale,KES,94.72,0.7
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,vegetables and fruits,Cabbage,1 KG,actual,Retail,KES,54.34,0.4
+2024-11-15,Machakos,Machakos,Machakos Town,-1.5177,37.2634,vegetables and fruits,Cabbage,1 KG,actual,Wholesale,KES,48.91,0.36
